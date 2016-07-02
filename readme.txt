@@ -6,5 +6,5 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick and simple
 hello world!
 hahah,test!
-hello test3!
+hello test2!
 
